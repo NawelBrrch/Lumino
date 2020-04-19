@@ -19,3 +19,5 @@ http://lumino.vhswebs.com/
  - [Constance Petillot](https://github.com/cpetillot) :pencil:
  - [Camy Cerin](https://github.com/CamyCerin) :art:
 
+
+![](homepage.gif)
